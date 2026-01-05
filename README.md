@@ -73,5 +73,5 @@ For classification, the target column is converted into two classes:
 - Machine Learning (Supervised Learning)
 
 ##  output
--Regression Mean Squared Error: 0.0
--Classification Accuracy: 1.0
+-Regression Mean Squared Error: 0.0                                                                                                                                             
+-Classification Accuracy: 1.0                                                                                                                                                
